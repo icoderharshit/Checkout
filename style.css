@@ -72,24 +72,7 @@ box-shadow: 0px 0px 10px grey;
 margin-left: auto !important;
 margin-right: auto !important;
 }
+#t2{
+  width: 100%;
 }
-/* @media(max-width:321px)
-{
-  #box{
-    grid-template-areas: 'item1' 'item2';
-  box-shadow: none;
-  }
-  #item1{
-    box-shadow: 0px 0px 10px grey;
-    display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  }
-  #item2{
-  margin-top: 10%;
-  max-width: 100% !important;
-  box-shadow: 0px 0px 10px grey;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  }
-} */
+}
